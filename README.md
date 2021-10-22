@@ -3,7 +3,7 @@ Oublic repository for testing purposes
 
 Thi is a table
 
-First Header | Second Header
+ Country     | City
 ------------ | -------------
  Canada      |  Calgary
  Italy       |  Milan
