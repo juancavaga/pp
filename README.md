@@ -3,6 +3,13 @@ Oublic repository for testing purposes
 
 Thi is a table
 
+First Header | Second Header
+------------ | -------------
+ Canada      |  Calgary
+ Italy       |  Milan
+ USA         |  Miami
+ Peru        |  Lima
+
     +---------+----------+
     | Country |  City    |
     +---------+----------+
